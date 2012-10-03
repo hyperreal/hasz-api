@@ -1,0 +1,11 @@
+language: php
+
+php:
+  - 5.3
+  - 5.4
+
+before-script:
+  - composer install
+
+script:
+  - phpunit --bootstrap tests/bootstrap.php --configuration app/phpunit.xml
