@@ -1,0 +1,8 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "silex/silex": "1.0.*",
+        "symfony/class-loader": "2.1.*",
+        "symfony/browser-kit": "2.1.*"
+    }
+}

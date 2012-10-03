@@ -1,0 +1,6 @@
+composer.phar
+composer.lock
+hasz-api.iml
+.idea/
+vendor/*
+!vendor/.gitkeep
