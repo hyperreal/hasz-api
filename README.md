@@ -1,4 +1,4 @@
-...work in progress...
+...work in progress... [![Build Status](https://travis-ci.org/fajka/hasz-api.png)](https://travis-ci.org/fajka/hasz-api)
 
 # hasz API
 
@@ -12,10 +12,10 @@ And there you will probably find some documentation.
 
 Want to run hasz for your own?
 
-Clone repository and install dependencies...
+First clone repository and install dependencies...
 
     git clone https://github.com/fajka/hasz-api.git
     curl -s https://getcomposer.org/installer | php
     php composer.phar install
 
-... and point your server's document root to `web`.
+Next point your server's document root to `web`.
